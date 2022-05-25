@@ -7,6 +7,8 @@ html, body{
     box-sizing: border-box;
     overflow-x: hidden;
     background-color: #f0f0f0;
+    /* background-color: #111; */
+
 }
 
 :root{
@@ -86,6 +88,7 @@ p{
     font-family: var(--Lexend);
     color: var(--text-light);
 }
+
 
 /* ------x------- Global Classes -------x-------*/
 
